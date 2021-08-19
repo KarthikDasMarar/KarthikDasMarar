@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KarthikDasMarar
-- 👀 I’m interested in full stack development
+- 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning PYTHON ,JAVASCRIPT,REACTJS, HTML,CSS
 - 📫 How to reach me kkarthikdas@gmail.com
 
